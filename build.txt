@@ -1,0 +1,4 @@
+displayName = Fargo's Mods DLC
+author = Shardiech
+version = 0.1
+modReferences = FargowiltasSouls, Fargowiltas
